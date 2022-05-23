@@ -1,8 +1,8 @@
 # Pemrograman Mobile EU001
 # Rosalina-Agustina-Siahaan-20190801270-
-Mobile Apps Digital E-Library
+# Mobile Apps Digital E-Library
 
-# AndroidManifest.xml
+**# AndroidManifest.xml**
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.rosa.py7.appbiodata">
