@@ -139,7 +139,7 @@ public class AddActivity extends AppCompatActivity {
 }
 
 
-# CustomCursorAdapter.java
+**# CustomCursorAdapter.java**
 package com.rosa.py7.appbiodata;
 
 import android.annotation.TargetApi;
@@ -188,7 +188,7 @@ public class CustomCursorAdapter extends CursorAdapter {
 }
 
 
-# DBHelper.java
+**# DBHelper.java**
 package com.rosa.py7.appbiodata;
 
 import android.content.ContentValues;
@@ -259,7 +259,7 @@ public class DBHelper extends SQLiteOpenHelper {
 }
 
 
-# EditActivity.java
+**# EditActivity.java**
 package com.rosa.py7.appbiodata;
 
 import android.app.AlertDialog;
@@ -416,7 +416,7 @@ public class EditActivity extends AppCompatActivity {
 }
 
 
-# MainActivity.java
+**# MainActivity.java**
 package com.rosa.py7.appbiodata;
 
 import android.content.DialogInterface;
