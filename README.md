@@ -33,7 +33,7 @@ Mobile Apps Digital E-Library
 </manifest>
 
 
-#AddActivity.java
+# AddActivity.java
 package com.rosa.py7.appbiodata;
 
 import android.app.DatePickerDialog;
@@ -416,7 +416,7 @@ public class EditActivity extends AppCompatActivity {
 }
 
 
-#MainActivity.java
+# MainActivity.java
 package com.rosa.py7.appbiodata;
 
 import android.content.DialogInterface;
